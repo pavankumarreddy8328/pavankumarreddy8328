@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavankumarreddy8328
 - 👀 I’m interested in developing Applications.
-- 🌱 I’m currently learning flutter,firebase and aws.
+- 🌱 I have two years of experience in Flutter Mobile Apps development.
 - 📫 To reach me out go to linkedin at www.linkedin.com/in/pavankumarreddyv
 
 <!---
